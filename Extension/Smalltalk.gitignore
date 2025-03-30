@@ -1,0 +1,12 @@
+# Image and changes files
+*.image
+*.changes
+
+# Monticello packages
+*.mcz
+
+# Cache
+package-cache/
+
+# IDE files
+.smalltalk/
