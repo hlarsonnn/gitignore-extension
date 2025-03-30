@@ -1,0 +1,6 @@
+# Binaries
+*.o
+*.pony.bin
+
+# Docs
+docs/_build/
