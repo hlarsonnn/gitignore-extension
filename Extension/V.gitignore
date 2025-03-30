@@ -1,0 +1,6 @@
+# V outputs
+*.v.c
+*.v.exe
+
+# Cache
+.vmodules/
