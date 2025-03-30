@@ -1,0 +1,15 @@
+# Workspace and session files
+*.aws
+*.dyalog
+
+# Compiled functions
+*.cfn
+
+# Logs and dumps
+*.log
+*.dump
+
+# Editor/IDE
+.DS_Store
+.idea/
+.vscode/
