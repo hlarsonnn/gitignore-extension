@@ -1,0 +1,21 @@
+# Nim compiler artifacts
+nimcache/
+*.nim.c      # C backend
+*.nim.js     # JS backend
+*.html       # JS backend docs
+
+# Binaries
+*.exe
+*.out
+*.so
+*.dll
+*.dylib
+
+# Debug symbols
+*.stackdump
+*.debug
+
+# VS Code & IDE
+.nimble/
+.idea/
+.vscode/
