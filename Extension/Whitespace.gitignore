@@ -1,0 +1,18 @@
+# Ignore non-Whitespace text files (since they break interpreters)
+*.txt  
+*.md   # (unless documenting in Markdown)
+
+# Ignore binary/executable outputs (if using a Whitespace-to-binary compiler)
+*.exe  
+*.bin  
+*.wasm  
+
+# Editor/IDE artifacts
+*.swp  
+*~  
+.DS_Store  
+.idea/  
+.vscode/  
+
+# Backup files
+*.bak  
