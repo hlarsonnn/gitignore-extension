@@ -1,0 +1,6 @@
+# Compiled Racket
+compiled/
+*.zo
+
+# DrRacket IDE
+*.rkt~
