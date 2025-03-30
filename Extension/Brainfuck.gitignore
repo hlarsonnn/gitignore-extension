@@ -1,0 +1,19 @@
+# Ignore compiled/interpreted outputs (if any)
+*.out
+*.bin
+*.exe
+
+# Ignore logs or debug dumps
+*.log
+*.debug
+
+# Editor/IDE files
+*.swp
+*~
+.DS_Store
+.idea/
+.vscode/
+
+# Backup files
+*.bak
+*.old
