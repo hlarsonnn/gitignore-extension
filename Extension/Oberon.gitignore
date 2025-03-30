@@ -1,0 +1,11 @@
+# Compiled modules
+*.smb
+*.rsc
+
+# Object files
+*.o
+*.obj
+
+# Temporary files
+*.tmp
+*.bak
