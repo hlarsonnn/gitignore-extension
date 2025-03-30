@@ -1,0 +1,65 @@
+# --- Dependencies ---
+node_modules/
+.pnp
+.pnp.js
+.yarn/
+bower_components/
+.vendor/
+
+# --- Build Artifacts ---
+dist/
+build/
+.out/
+.next/       # Next.js
+.nuxt/       # Nuxt.js
+.gatsby/     # Gatsby
+.turbo/      # Turborepo
+.serverless/ # Serverless
+
+# --- Cache ---
+.cache/
+*.cache
+.svelte-kit/ # SvelteKit
+
+# --- Logs ---
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# --- Environment ---
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.env*.local
+
+# --- Editor/IDE ---
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# --- OS Files ---
+.DS_Store
+Thumbs.db
+
+# --- Testing ---
+coverage/
+.nyc_output/
+jest*.config.*
+cypress/screenshots/
+cypress/videos/
+
+# --- TypeScript ---
+*.tsbuildinfo
+
+# --- TailwindCSS ---
+.tailwindcss/
+*.css.map
+
+# --- Misc ---
+*.tmp
+*.bak
