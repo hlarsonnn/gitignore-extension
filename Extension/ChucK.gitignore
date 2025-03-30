@@ -1,0 +1,14 @@
+# Audio renders
+*.wav
+*.ogg
+*.aiff
+
+# Session logs
+*.ck.log
+
+# IDE/Plugin files
+.vscode/
+chuck_plugins/
+
+# Auto-generated
+*.ckb
