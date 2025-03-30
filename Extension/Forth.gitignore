@@ -1,0 +1,12 @@
+# Compiled binaries
+*.bin
+*.rom
+*.hex
+
+# Forth block files
+*.blk
+*.fsb
+
+# Editor backups
+*.bk
+*~
