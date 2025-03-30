@@ -1,0 +1,24 @@
+# Ignore compiled/interpreted outputs (if any)
+*.exe
+*.bin
+*.out
+*.obj
+
+# Ignore auxiliary files (e.g., from Chef interpreters)
+*.tmp
+*.log
+*.debug
+
+# Ignore editor/IDE clutter
+*.swp
+*~
+.DS_Store
+.idea/
+.vscode/
+
+# Backup files
+*.bak
+*.old
+
+# Optional: Ignore rendered recipe outputs (e.g., if your interpreter generates dishes)
+*.dish
