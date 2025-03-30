@@ -1,0 +1,16 @@
+# Crystal compiler outputs
+.crystal/
+bin/
+lib/
+
+# Executables
+*.exe
+*.so
+*.dll
+
+# Docs
+doc/
+
+# Dependencies
+libs/
+shards.lock
