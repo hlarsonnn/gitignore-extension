@@ -1,0 +1,51 @@
+# Compiled binaries and libraries
+*.exe
+*.dll
+*.so
+*.a
+*.lib
+*.dylib
+*.o
+*.obj
+
+# DMD (D Compiler) output
+*.dyn
+*.dyn.o
+*.cov
+*.lst
+*.map
+*.mdb
+
+# Dub (D's package manager) artifacts
+.dub/
+dub.selections.json
+__dummy.html
+
+# Build directories
+bin/
+lib/
+obj/
+build/
+output/
+generated/
+
+# Documentation
+*.doc
+*.html
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Coverage and profiling
+*.profraw
+*.gcda
+*.gcno
