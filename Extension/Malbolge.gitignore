@@ -1,0 +1,16 @@
+# Ignore any outputs (Malbolge is usually interpreted)
+*.out
+*.exe
+
+# Ignore intermediate files (e.g., from transpilers)
+*.mbl
+*.transpiled.c
+
+# Editor/IDE files
+.DS_Store
+.idea/
+*.swp
+*~
+
+# Backup files
+*.bak
