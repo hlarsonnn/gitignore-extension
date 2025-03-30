@@ -1,0 +1,6 @@
+# Compiled output
+elm-stuff/
+dist/
+
+# IDE
+.idea/
