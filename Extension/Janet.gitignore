@@ -1,0 +1,6 @@
+# Binary outputs
+*.jimage
+*.so
+
+# Cache
+.janet/
