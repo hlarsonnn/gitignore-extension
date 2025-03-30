@@ -1,0 +1,14 @@
+# Rendered outputs
+*.stl
+*.obj
+*.amf
+*.3mf
+
+# Cache
+__pycache__/  # If using Python scripts
+
+# Customizer
+*.json
+
+# IDE
+.DS_Store
