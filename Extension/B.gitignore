@@ -1,0 +1,24 @@
+# Compiled binaries/executables
+*.o
+*.out
+a.out
+*.bin
+*.exe
+
+# Intermediate files 
+*.obj
+*.asm
+
+# Backup files
+*~
+*.bak
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependency directories (if any)
+deps/
+build/
