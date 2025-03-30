@@ -1,0 +1,19 @@
+# Ignore output files (e.g., from interpreters)
+*.out
+*.exe
+*.bin
+
+# Ignore generated images (if your workflow produces intermediate PNGs)
+*-debug.png
+*.bmp
+*.ppm
+
+# Ignore editor/IDE files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+
+# Backup files
+*.bak
