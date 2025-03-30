@@ -1,0 +1,12 @@
+# Build artifacts
+build/
+*.exe
+*.pdb        # Debug symbols
+*.obj
+
+# Cache
+.jai_cache/
+
+# IDE
+.vscode/
+.jai/
