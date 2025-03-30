@@ -1,0 +1,6 @@
+# Build artifacts
+_build/
+*.ibc
+
+# IDE
+.idris/
