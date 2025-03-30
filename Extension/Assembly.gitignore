@@ -1,0 +1,31 @@
+# --- Compiled Outputs ---
+*.o              # Object files (GAS/NASM)
+*.obj            # MASM/TASM object files
+*.out            # Linked executables (Unix)
+*.exe            # Windows executables
+*.bin            # Raw binary outputs (e.g., bootloaders)
+*.elf            # ELF executables (common in embedded)
+*.hex            # Intel HEX (microcontrollers)
+*.lst            # Listing files (debug)
+
+# --- Toolchain Specific ---
+*.i              # Preprocessor output (GCC)
+*.s              # Generated assembly (from C)
+*.map            # Linker map files
+*.iso            # OSDev/disk images
+
+# --- IDE/Editor Junk ---
+*.swp            # Vim swap files
+*~               # Backup files
+.DS_Store        # macOS metadata
+.vscode/         # VS Code configs
+.idea/           # JetBrains IDEs
+
+# --- Debug/Test Files ---
+*.debug          # Debug symbols
+*.test           # Test outputs
+core.*           # Core dumps (crashes)
+
+# --- OS-Specific ---
+/a.out           # Classic Unix executable
+/cygdrive        # Cygwin paths (Windows)
