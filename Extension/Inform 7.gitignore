@@ -1,0 +1,16 @@
+# Compiled game files
+*.gblorb
+*.z*
+*.ulx
+
+# Temporary files
+*.i7x
+*.tmp
+
+# Indexes
+*.ind
+*.inform/
+
+# IDE
+Inform/
+*.ni
