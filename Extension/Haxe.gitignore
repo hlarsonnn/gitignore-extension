@@ -1,0 +1,15 @@
+# Build outputs
+bin/
+obj/
+*.js         # JS target
+*.swf        # Flash target
+*.py         # Python target
+*.neko       # NekoVM
+
+# Cache
+.haxelib/
+.build/
+
+# IDE
+.vscode/
+.haxerc
