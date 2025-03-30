@@ -1,0 +1,16 @@
+# Test reports
+*.html
+*.json
+*.xml
+
+# Environment files
+.env
+.env.local
+
+# IDE/Editor
+.idea/
+.vscode/
+*.swp
+
+# Build artifacts (if used with Cucumber-Ruby, etc.)
+tmp/
