@@ -1,0 +1,13 @@
+# Compiled predicates
+*.qlf
+
+# Output files
+*.pl~
+*.prolog~
+
+# SWI-Prolog environment
+*.po
+*.itf
+
+# Temporary files
+*.tmp
